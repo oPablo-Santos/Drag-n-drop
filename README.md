@@ -1,3 +1,3 @@
 # Trello-drag-n-drop
-Quadro kanban para realização de tarefas
+Quadro para realização de tarefas em fluxo, metodologia Kanban
 Solucionar bug ts(1005) no arquivo App
